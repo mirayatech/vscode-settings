@@ -1,0 +1,58 @@
+{
+  "recommendations": [
+    // GitHub Tools
+    "GitHub.copilot",
+    "GitHub.copilot-chat",
+    "GitHub.vscode-pull-request-github",
+    "GitHub.vscode-github",
+    "GitHub.codespaces",
+
+    // Snippets
+    "dsznajder.es7-react-js-snippets",
+
+    // Live Collaboration
+    "MS-vsliveshare.vsliveshare",
+
+    // Language Support
+    "ms-vscode.vscode-typescript-tslint-plugin",
+    "ms-vscode.vscode-javascript-pack",
+
+    // Code Formatting
+    "esbenp.prettier-vscode",
+
+    // Visual Enhancements
+    "vscode-icons-team.vscode-icons",
+    "emilast.vscode-pets",
+    "wraith13.ariake-dark",
+
+    // Web Development
+    "emmet.emmet",
+    "bradlc.vscode-tailwindcss",
+    "ritwickdey.liveserver",
+
+    // HTML & CSS
+    "formulahendry.auto-rename-tag",
+
+    // Version Control
+    "tomblind.merge-conflict",
+    "mhutchie.git-base",
+
+    // Productivity
+    "kudabara.emojisense",
+    "wayou.vscode-todo-highlight",
+    "formulahendry.auto-close-tag",
+
+    // Quality Assurance
+    "dbaeumer.vscode-eslint",
+    "naumovs.color-highlight",
+
+    // Debugging
+    "VisualStudioExptTeam.vscode-node-debug-auto-attach",
+
+    // Markdown
+    "yzhang.markdown-all-in-one",
+
+    // Prisma
+    "prisma.prisma"
+  ]
+}
