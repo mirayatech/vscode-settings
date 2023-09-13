@@ -1,9 +1,8 @@
-# Miraya's Visual Studio Code Extensions and Settings
+## 🗿 Miraya's Visual Studio Code Extensions and Settings
 
-This is my selection of helpful Visual Studio Code extensions and settings. These are the tools I use to make coding easier and more efficient.
+- This is my collection of Visual Studio Code extensions and settings that make coding more efficient and easier.
+ 
+- They help with different parts of coding, like making code neat, working together, and making things look better.
 
-🧰 They cover various aspects of coding, from formatting to collaboration and visual improvements.
+- Try these extensions and settings to make coding easier. They can make your work simpler.
 
-🚀 Explore these extensions and settings to make your coding experience and see how they can simplify your work.
-
-👉 Feel free to check out the repository to discover the extensions and settings that I personally rely on. Give them a try to make your coding journey smoother!
