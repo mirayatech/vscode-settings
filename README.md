@@ -1,4 +1,4 @@
-## 🗿 Miraya's Visual Studio Code Extensions and Settings
+## 🗿 My Visual Studio Code Extensions and Settings
 
 - This is my collection of Visual Studio Code extensions and settings that make coding more efficient and easier.
  
